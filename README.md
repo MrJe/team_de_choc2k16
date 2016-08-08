@@ -7,7 +7,7 @@ Un dépot entre amis pour s'entrainer et partager notre code en attendant la ren
 - [x] vigenere cypher
 
 Un petit programme pour encrypter du texte.
-Le fonctionnement est symple, le principe est le même que pour le rot13, sauf que la rotation change a chaque caractères en suivant une phrase clef.
+Le fonctionnement est simple, le principe est le même que pour le rot13, sauf que la rotation change a chaque caractères en suivant une phrase clef.
 
 exemple d'exécution:
 
